@@ -11,7 +11,7 @@ using namespace std;
 int main(){
 
     int numero_mayor = 0;
-    while (true) {
+    while (true){
 
         int numero_ingresado;
         cout << "Ingrese el numero: ";
@@ -32,7 +32,6 @@ int main(){
                 continue;
             }
         }
-
     }
 
     return 0;
